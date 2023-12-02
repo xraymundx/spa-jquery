@@ -1,3 +1,14 @@
-.cliff-h1{
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-image: url('https://media.tenor.com/WpgSYAYBpLkAAAAC/hacker.gif');
+    background-size: cover;
+}
+h1{
+    text-align: center;
     color: #99ccff;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
 }
