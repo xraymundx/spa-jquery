@@ -1,0 +1,34 @@
+.app-nav-btn-active {
+    background-color: #858585;
+    color: white;
+}
+  .button {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border: none;
+    background-color: #3b5998;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+
+  .button:hover {
+    background-color: #1877f2; 
+  }
+
+  .icon {
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+  }
+
+  .github {
+    background-color: #24292e;
+  }
+
+  .github:hover {
+    background-color: #181c22; 
+  }
