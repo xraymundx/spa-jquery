@@ -1,6 +1,4 @@
-.cliff-h1{
-    color: #99ccff;
-}
+
 body{
     background-image: url('https://wallpaperaccess.com/full/5651999.jpg');
     background-size: cover;
@@ -25,4 +23,26 @@ h2{
     font-weight: 900;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
+}
+img {
+    max-width: 30%;
+    height: 20%;
+    float: left; 
+    margin-right: 20px; 
+    border-radius: 50%;
+}
+h1 {
+    padding: 10%;
+    font-weight: 900;
+    text-align: left; 
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+p{
+    font-weight: 900;
+    text-align: left; 
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    
 }
